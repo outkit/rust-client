@@ -30,5 +30,5 @@ Languages that support an async model should offer a way to take advantage of th
 reply from our API.
 
 ## Questions? Comments?
-Feel free to [create a GitHub issue]((https://github.com/outkit/rust-client/issues)) with any questions or comments you might have about an API client.
+Feel free to [create a GitHub issue](https://github.com/outkit/rust-client/issues) with any questions or comments you might have about an API client.
 If you want to contact us less publicly, you can find the most current ways of doing so on [our web page](https://outkit.io/contact).
