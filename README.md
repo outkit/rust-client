@@ -5,7 +5,7 @@ the [Outkit](https://outkit.io/) [API](https://docs.outkit.io/).
 Unfortunately, we haven’t gotten around to building it yet, but it’s one of the languages we wish to support as early as possible.
 
 ## Contributing
-If you wish to contribute to this client being built sooner rather than later, we very much welcome [Pull Requests](/outkit/rust-client/pulls). 
+If you wish to contribute to this client being built sooner rather than later, we very much welcome [Pull Requests](https://github.com/outkit/rust-client/pulls). 
 Please check the status of any pending PRs before submitting your own initial implementation, though - there may be 
 one in the pipeline already.
 
@@ -30,5 +30,5 @@ Languages that support an async model should offer a way to take advantage of th
 reply from our API.
 
 ## Questions? Comments?
-Feel free to [create a GitHub issue]((/outkit/rust-client/issues)) with any questions or comments you might have about an API client.
+Feel free to [create a GitHub issue]((https://github.com/outkit/rust-client/issues)) with any questions or comments you might have about an API client.
 If you want to contact us less publicly, you can find the most current ways of doing so on [our web page](https://outkit.io/contact).
